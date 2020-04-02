@@ -24,3 +24,5 @@ while opcion != 4:
         base = int(input("Ingresa la base: "))
         area = altura*base
         print ("El area es: ", area)
+    if opcion == 4:
+        break
